@@ -4,9 +4,7 @@
 Füge zunächst den LED-Umschalt-Block für x- und y-Koordinate ein.
 
 ```blocks
-let x = 0
-let y = 0
-led.toggle(x, y)
+led.toggle(0, 0)
 ```
 
 ## Schritt 2
@@ -21,7 +19,6 @@ led.toggle(x, 0)
 Trage nun auch für y diesen Block ein.
 
 ```blocks
-let x = randint(0, 4)
 let y = randint(0, 4)
 led.toggle(x, y)
 ```
@@ -30,9 +27,6 @@ led.toggle(x, y)
 Ergänze noch eine Pause von 200ms.
 
 ```blocks
-let x = randint(0, 4)
-let y = randint(0, 4)
-led.toggle(x, y)
 basic.pause(200)
 ```
 ### Schritt 5
