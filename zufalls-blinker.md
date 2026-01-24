@@ -9,6 +9,7 @@ basic.forever(function () {
 })
 ```
 
+
 ## Schritt 2
 Trage für x den Block für Zufallszahlen zwischen 0 und 4 ein.
 
