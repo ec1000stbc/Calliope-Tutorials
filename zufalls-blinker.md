@@ -1,7 +1,7 @@
 # Zufalls-Blinker
 
 ## Schritt 1
-Füge zunächst den LED-Umschalt-Block für x- und y-Koordinate ein.
+Füge als erstes den LED-Umschalt-Block für x- und y-Koordinate ein.
 
 ```blocks
 led.toggle(0, 0)
