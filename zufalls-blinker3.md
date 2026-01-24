@@ -14,5 +14,5 @@ basic.forever(function () {
 Trage für x den Block für Zufallszahlen zwischen 0 und 4 ein.
 
 ```blocks
-led.toggle(randint(0, 4), 0)
+randint(0, 4)
 ```
