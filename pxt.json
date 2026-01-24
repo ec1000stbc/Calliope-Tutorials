@@ -12,7 +12,8 @@
         "zufalls-blinker.md",
         "zufalls-blinker4.md",
         "zufalls-blinker5.md",
-        "zufalls-blinker6.md"
+        "zufalls-blinker6.md",
+        "zufalls-blinker7.md"
     ],
     "testFiles": [
         "test.ts"
