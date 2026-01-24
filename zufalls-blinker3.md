@@ -11,8 +11,4 @@ basic.forever(function () {
 ```
 
 ## Schritt 2
-Trage für x den Block für Zufallszahlen zwischen 0 und 4 ein.
-
-```blocks
-randint(0, 4)
-```
+Trage für x den ``||randint(0, 10)||``-Block und trage 0 und 4 ein.
