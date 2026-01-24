@@ -4,35 +4,45 @@
 Füge zunächst den LED-Umschalt-Block für x- und y-Koordinate ein.
 
 ```blocks
-basic.forever(function () {
-    led.toggle(0, 0)
-})
+let x = 0
+let y = 0
+led.toggle(x, y)
 ```
 
 ## Schritt 2
 Trage für x den Block für Zufallszahlen zwischen 0 und 4 ein.
 
 ```blocks
-basic.forever(function () {
-    led.toggle(randint(0, 4), 0)
-})
+let x = randint(0, 4)
+led.toggle(x, 0)
 ```
 
 ## Schritt 3
 Trage nun auch für y diesen Block ein.
 
 ```blocks
-basic.forever(function () {
-    led.toggle(randint(0, 4), randint(0, 4))
-})
+let x = randint(0, 4)
+let y = randint(0, 4)
+led.toggle(x, y)
 ```
 
 ## Schritt 4
 Ergänze noch eine Pause von 200ms.
 
 ```blocks
+let x = randint(0, 4)
+let y = randint(0, 4)
+led.toggle(x, y)
+basic.pause(200)
+```
+### Schritt 5
+Damit der Blinker kontinuierlich läuft, packe alles in eine ``forever-Schleife``:
+
+```blocks
 basic.forever(function () {
-    led.toggle(randint(0, 4), randint(0, 4))
+    let x = randint(0, 4)
+    let y = randint(0, 4)
+    led.toggle(x, y)
     basic.pause(200)
 })
 ```
