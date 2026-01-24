@@ -11,7 +11,8 @@
         "README.md",
         "zufalls-blinker.md",
         "zufalls-blinker4.md",
-        "zufalls-blinker5.md"
+        "zufalls-blinker5.md",
+        "zufalls-blinker6.md"
     ],
     "testFiles": [
         "test.ts"
