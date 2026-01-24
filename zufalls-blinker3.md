@@ -1,8 +1,6 @@
 # Zufalls-Blinker
 
 ## Schritt 1
-
-
 Füge zunächst den LED-Umschalt-Block für x- und y-Koordinate ein.
 
 
@@ -13,6 +11,8 @@ basic.forever(function () {
 ```
 
 ## Schritt 2
+Verwende für x den Zufallszahlen-Block und trage 0 und 4 ein.
 
 
-Trage für x den ``||input:Temperatur||``-Block und trage 0 und 4 ein.
+## Schritt 3
+Ebenso für y!
