@@ -1,6 +1,7 @@
 # Zufalls-Blinker
 
 ## Schritt1
+
 Füge zunächst den LED-Umschalt-Block für x- und y-Koordinate ein.
 
 ```blocks
@@ -10,6 +11,7 @@ basic.forever(function () {
 ```
 
 ## Schritt2
+
 Trage für x den Block für Zufallszahlen zwischen 0 und 4 ein.
 
 ```blocks
@@ -19,6 +21,7 @@ basic.forever(function () {
 ```
 
 ## Schritt3
+
 Trage nun auch für y diesen Block ein.
 
 ```blocks
@@ -28,6 +31,7 @@ basic.forever(function () {
 ```
 
 ## Schritt4
+
 Ergänze noch eine Pause von 200ms.
 
 ```blocks
