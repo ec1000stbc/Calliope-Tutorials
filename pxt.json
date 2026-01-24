@@ -9,7 +9,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "zufalls-blinker.md"
+        "zufalls-blinker.md",
+        "zufalls-blinker2.md"
     ],
     "testFiles": [
         "test.ts"

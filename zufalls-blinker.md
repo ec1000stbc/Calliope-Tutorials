@@ -1,4 +1,3 @@
-
 # Zufalls-Blinker
 
 ## Schritt 1
