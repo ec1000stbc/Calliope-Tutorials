@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "zufalls-blinker.md",
-        "zufalls-blinker7.md"
+        "zufalls-blinker7.md",
+        "zufalls-blinker8.md"
     ],
     "testFiles": [
         "test.ts"
