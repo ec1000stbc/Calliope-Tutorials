@@ -11,7 +11,6 @@ basic.forever(function () {
 ```
 
 ## Schritt 2
-
 Trage für x den Block für Zufallszahlen zwischen 0 und 4 ein.
 
 ```blocks
@@ -21,7 +20,6 @@ basic.forever(function () {
 ```
 
 ## Schritt 3
-
 Trage nun auch für y diesen Block ein.
 
 ```blocks
