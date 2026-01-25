@@ -2,7 +2,7 @@
 
 ## Schritt1
 
-Füge zunächst in ``Dauerhaft`` den LED-Umschalt-Block für x- und y-Koordinate ein.
+Füge zunächst in den ``||basic.Dauerhaft||``-Block den LED-Umschalt-Block für x- und y-Koordinate ein.
 
 ```blocks
 basic.forever(function () {

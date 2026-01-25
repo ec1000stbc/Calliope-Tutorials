@@ -2,8 +2,7 @@
     "name": "Tutorials",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "v3": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
