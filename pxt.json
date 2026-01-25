@@ -1,5 +1,5 @@
 {
-    "name": "Zufalls-Blinker",
+    "name": "Tutorials",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,8 +9,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "zufalls-blinker7.md",
-        "zufalls-blinker8.md"
+        "zufalls-blinker8.md",
+        "Zufalls-Blinker.md"
     ],
     "testFiles": [
         "test.ts"
