@@ -2,7 +2,7 @@
 
 ## Schritt1
 
-Füge zunächst den LED-Umschalt-Block für x- und y-Koordinate ein.
+Füge zunächst in ``Dauerhaft`` den LED-Umschalt-Block für x- und y-Koordinate ein.
 
 ```blocks
 basic.forever(function () {
@@ -12,7 +12,7 @@ basic.forever(function () {
 
 ## Schritt2
 
-Trage für x den Block für Zufallszahlen zwischen 0 und 4 ein.
+Trage für x den Block für Zufallszahlen zwischen ``0`` und ``4`` ein.
 
 ```blocks
 basic.forever(function () {
@@ -32,7 +32,7 @@ basic.forever(function () {
 
 ## Schritt4
 
-Ergänze noch eine Pause von 200ms.
+Ergänze noch eine Pause von ``200ms``.
 
 ```blocks
 basic.forever(function () {
